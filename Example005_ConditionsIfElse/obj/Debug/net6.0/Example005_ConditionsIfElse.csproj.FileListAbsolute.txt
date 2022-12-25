@@ -1,0 +1,15 @@
+/Users/alenakatanskaya/Desktop/Exampels/Example005_ConditionsIfElse/bin/Debug/net6.0/Example005_ConditionsIfElse
+/Users/alenakatanskaya/Desktop/Exampels/Example005_ConditionsIfElse/bin/Debug/net6.0/Example005_ConditionsIfElse.deps.json
+/Users/alenakatanskaya/Desktop/Exampels/Example005_ConditionsIfElse/bin/Debug/net6.0/Example005_ConditionsIfElse.runtimeconfig.json
+/Users/alenakatanskaya/Desktop/Exampels/Example005_ConditionsIfElse/bin/Debug/net6.0/Example005_ConditionsIfElse.dll
+/Users/alenakatanskaya/Desktop/Exampels/Example005_ConditionsIfElse/bin/Debug/net6.0/Example005_ConditionsIfElse.pdb
+/Users/alenakatanskaya/Desktop/Exampels/Example005_ConditionsIfElse/obj/Debug/net6.0/Example005_ConditionsIfElse.csproj.AssemblyReference.cache
+/Users/alenakatanskaya/Desktop/Exampels/Example005_ConditionsIfElse/obj/Debug/net6.0/Example005_ConditionsIfElse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alenakatanskaya/Desktop/Exampels/Example005_ConditionsIfElse/obj/Debug/net6.0/Example005_ConditionsIfElse.AssemblyInfoInputs.cache
+/Users/alenakatanskaya/Desktop/Exampels/Example005_ConditionsIfElse/obj/Debug/net6.0/Example005_ConditionsIfElse.AssemblyInfo.cs
+/Users/alenakatanskaya/Desktop/Exampels/Example005_ConditionsIfElse/obj/Debug/net6.0/Example005_ConditionsIfElse.csproj.CoreCompileInputs.cache
+/Users/alenakatanskaya/Desktop/Exampels/Example005_ConditionsIfElse/obj/Debug/net6.0/Example005_ConditionsIfElse.dll
+/Users/alenakatanskaya/Desktop/Exampels/Example005_ConditionsIfElse/obj/Debug/net6.0/refint/Example005_ConditionsIfElse.dll
+/Users/alenakatanskaya/Desktop/Exampels/Example005_ConditionsIfElse/obj/Debug/net6.0/Example005_ConditionsIfElse.pdb
+/Users/alenakatanskaya/Desktop/Exampels/Example005_ConditionsIfElse/obj/Debug/net6.0/Example005_ConditionsIfElse.genruntimeconfig.cache
+/Users/alenakatanskaya/Desktop/Exampels/Example005_ConditionsIfElse/obj/Debug/net6.0/ref/Example005_ConditionsIfElse.dll
